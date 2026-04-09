@@ -1,5 +1,3 @@
-# azure-admin-scripts
-PowerShell scripts for Azure &amp; M365 admin
 # ============================================
 # System Health Check Script
 # Author: Muad Muhammed
